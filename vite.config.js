@@ -6,4 +6,5 @@ export default defineConfig({
   plugins: [
     react(),  
     tailwindcss(),],
+  base: "/react_website_sofa"
 })
