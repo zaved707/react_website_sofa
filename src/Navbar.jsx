@@ -1,7 +1,7 @@
 import { Menu, Heart, User, Phone} from "lucide-react"
 export default function Navbar(){
     return (
-    <div className="navbar items-center fixed flex z-10 justify-between bg-base-100 shadow-sm">
+    <div className="navbar items-center fixed flex z-1 justify-between bg-base-100 shadow-sm">
         <div className="flex items-center">
         <label for='my-drawer' className="btn btn-ghost">
 

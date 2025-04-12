@@ -14,9 +14,9 @@ function App() {
           {/* content goes here */}
           <MainPage />
           
-        </div>
-        <div className="drawer-side">
-        <label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
+        </div >
+        <div className="drawer-side z-2">
+        <label for="my-drawer" aria-label="close sidebar" className="drawer-overlay"></label>
           <Drawer />
         </div>
       </div>

@@ -3,7 +3,7 @@ export default function Drawer() {
     return <>
 
 
-        <div className="menu bg-base-200 text-base-content min-h-full w-80 ">
+        <div className="menu bg-base-200  text-base-content min-h-full w-80  ">
             <div className="navbar bg-base-300 flex justify-between">
                 <label className=" text-3xl font-bold">Mattresses</label>
                 <label for='my-drawer' className="btn btn-ghost"><X /></label></div>
